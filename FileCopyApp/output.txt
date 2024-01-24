@@ -1,0 +1,9 @@
+linia 18: przygotuj fragment pamięci do przesłania danych z pliku
+źródłowego do docelowego; taki obszar przenoszenia jest często 
+nazywany buforem, stąd nazwa zmiennej; rozmiar bufora jest 
+arbitralny - w tym przypadku zdecydowaliśmy się użyć 64 
+kilobajtów; technicznie rzecz biorąc, większy bufor jest 
+szybszy przy kopiowaniu elementów, ponieważ większy bufor 
+oznacza mniej operacji I/O; w rzeczywistości zawsze istnieje 
+granica, której przekroczenie nie powoduje dalszych ulepszeń;
+sprawdź sam, jeśli chcesz.

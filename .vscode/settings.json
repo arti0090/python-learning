@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./py/packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "./py/packages"
+    ],
+    "python.analysis.autoImportCompletions": true
+}

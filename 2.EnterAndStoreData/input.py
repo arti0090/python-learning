@@ -1,0 +1,5 @@
+input("Talk to me: ")
+name = input("Enter name: ")
+print(name * 5)
+x = input("Enter a number: ")
+print(x)
