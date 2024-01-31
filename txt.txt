@@ -1,5 +1,0 @@
-I am currently unemployed so I am not moving from my role :)
-HYLL looks like an interesting project to me as I have a huge interest in free times activities and traveling (although mine are more focused on motorcycle adventures). I would also be happy to extend my knowledge in Python and the tech stack connected to it. I hope my knowledge from other langauges and projects could be helpfull to HYLL. I have also used or learned technologies related to contenerization and orchestration in small quantities, but I am interested as well in their development. 
-
-I am proud of my projects related to hardware programming, using javascript or python I was able together with my friend to program an RC cars that could use the camera for discovering people and follow them as example. I am also currently programming drones to do similar tasks but I want to extend with different ideas I currently have.
-In my professional carrer I like that I worked in Sylius where I could experience working on open-source project with huge focus on clean code and testing coverage and where I was creating a service that was used by huge community. 
